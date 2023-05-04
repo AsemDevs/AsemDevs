@@ -1,5 +1,28 @@
 # Asem Abdou
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Technical Skills](#technical-skills)
+   - [Languages](#languages)
+   - [Frameworks and Libraries](#frameworks-and-libraries)
+   - [Tools and Technologies](#tools-and-technologies)
+3. [Projects](#projects)
+   - [RocApply Website Redesign and Enhancement](#rocapply-website-redesign-and-enhancement)
+   - [Kiobe WordPress Theme Development](#kiobe-wordpress-theme-development)
+   - [HomeJeddah.com - WordPress Theme Development](#homejeddah-wordpress-theme-development)
+   - [Tixee.com Website Development](#tixee-website-development)
+4. [Work Experience](#work-experience)
+   - [Full Stack Developer at Tixee](#full-stack-developer-at-tixee)
+   - [Web Developer at Flexistax](#web-developer-at-flexistax)
+   - [Full Stack Web Developer at RocApply](#full-stack-web-developer-at-rocapply)
+5. [Education](#education)
+6. [Certifications](#certifications)
+7. [Soft Skills](#soft-skills)
+8. [LinkedIn Recommendations](#linkedin-recommendations)
+
+Simply copy and paste this table of contents into your markdown file, and it will automatically create links to the corresponding sections in your file.
+
 ## Introduction
 
 A versatile and dedicated full-stack web developer with 5+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Experienced in working remotely and passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
@@ -70,13 +93,13 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Created a custom pricing page
   - Developed a custom services page
 
-### HomeJeddah.com - WordPress Theme Development
+### HomeJeddah WordPress Theme Development
 
 - **Description:** Developed a custom WordPress theme from scratch for HomeJeddah.com, a platform showcasing home services in Saudi Arabia. The project involved creating a responsive and user-friendly design and implementing various custom features to meet the requirements of the platform.
 - **Technologies:** WordPress, PHP, HTML, CSS, JavaScript
 - **Links:** [Live Demo](https://homejeddah.com)
 
-### Tixee.com Website Development
+### Tixee Website Development
 
 - **Description:** Worked as a full stack developer for Tixee, a trading platform company, to develop and maintain their WordPress website. Focused on creating custom features to meet marketing goals and improve the overall user experience.
 - **Technologies:** WordPress, PHP, HTML, CSS, JavaScript, CRM API integration
@@ -147,9 +170,15 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
 
 - Excellent problem-solving skills
 - Strong communication abilities
-- Effective teamwork and collaboration 
+- Effective teamwork and collaboration
 - Adaptability and quick learning
 - Attention to detail
 - Independence, self-motivation, and organization
 - Critical and solution-oriented thinking
 - Experience working remotely
+
+## LinkedIn Recommendations
+
+For more insights on my professional expertise, feel free to check out the recommendations on my LinkedIn profile:
+
+[View my LinkedIn Recommendations](https://linkedin.com/in/asemhamdi/details/recommendations/)
