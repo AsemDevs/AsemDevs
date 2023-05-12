@@ -21,8 +21,6 @@
 7. [Soft Skills](#soft-skills)
 8. [LinkedIn Recommendations](#linkedin-recommendations)
 
-Simply copy and paste this table of contents into your markdown file, and it will automatically create links to the corresponding sections in your file.
-
 ## Introduction
 
 A versatile and dedicated full-stack web developer with 5+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Experienced in working remotely and passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
