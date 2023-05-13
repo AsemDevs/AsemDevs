@@ -121,7 +121,7 @@ Here's a list of some of the exciting projects I'm currently working on:
 - **Description:** Developing a website for Hilwa Dairy, a company that produces milk products. The aim of the website is to showcase the company's products, provide information about the company, and serve as a point of contact for customers.
 - **Technologies:** WordPress, PHP, HTML, CSS, JavaScript.
 - **Responsibilities:** My role involves designing and implementing the website layout, creating pages for product display, and implementing contact forms and other features as required.
-- **Progress:** The design phase has been completed and development is underway.
+- **Progress:** The design phase has been completed and development is underway. ![Progress](https://progress-bar.dev/60)
 - **Expected Completion:** The website is expected to go live by the end of July 2023.
 
 ### WordPress Online Booking System Plugin
@@ -129,7 +129,7 @@ Here's a list of some of the exciting projects I'm currently working on:
 - **Description:** I am currently developing a new WordPress plugin to facilitate online booking. The plugin will allow businesses to manage bookings and reservations directly from their WordPress dashboard.
 - **Technologies:** PHP, HTML, CSS, JavaScript, WordPress Plugin API.
 - **Responsibilities:** As the sole developer on this project, I am responsible for planning, designing, and coding the plugin. I am also in charge of testing the plugin for bugs and compatibility issues with different versions of WordPress.
-- **Progress:** The planning and design phases have been completed, and I am currently in the coding phase.
+- **Progress:** The planning and design phases have been completed, and I am currently in the coding phase. ![Progress](https://progress-bar.dev/20)
 - **Expected Completion:** The first version of the plugin is expected to be ready for testing by june 2023.
 
 ## Work Experience
