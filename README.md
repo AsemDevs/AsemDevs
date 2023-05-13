@@ -130,7 +130,7 @@ Here's a list of some of the exciting projects I'm currently working on:
 - **Technologies:** PHP, HTML, CSS, JavaScript, WordPress Plugin API.
 - **Responsibilities:** As the sole developer on this project, I am responsible for planning, designing, and coding the plugin. I am also in charge of testing the plugin for bugs and compatibility issues with different versions of WordPress.
 - **Progress:** The planning and design phases have been completed, and I am currently in the coding phase.
-- **Expected Completion:** The first version of the plugin is expected to be ready for testing by September 2023.
+- **Expected Completion:** The first version of the plugin is expected to be ready for testing by june 2023.
 
 ## Work Experience
 
