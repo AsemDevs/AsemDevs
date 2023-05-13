@@ -12,14 +12,15 @@
    - [Kiobe WordPress Theme Development](#kiobe-wordpress-theme-development)
    - [HomeJeddah.com - WordPress Theme Development](#homejeddah-wordpress-theme-development)
    - [Tixee.com Website Development](#tixee-website-development)
-4. [Work Experience](#work-experience)
+4. [Ongoing Projects](#ongoing-projects)
+5. [Work Experience](#work-experience)
    - [Full Stack Developer at Tixee](#full-stack-developer-at-tixee)
    - [Web Developer at Flexistax](#web-developer-at-flexistax)
    - [Full Stack Web Developer at RocApply](#full-stack-web-developer-at-rocapply)
-5. [Education](#education)
-6. [Certifications](#certifications)
-7. [Soft Skills](#soft-skills)
-8. [LinkedIn Recommendations](#linkedin-recommendations)
+6. [Education](#education)
+7. [Certifications](#certifications)
+8. [Soft Skills](#soft-skills)
+9. [LinkedIn Recommendations](#linkedin-recommendations)
 
 ## Introduction
 
@@ -110,6 +111,26 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
   - Integrated APIs for trading data presentation
   - Worked closely with the CMO to meet marketing goals and created goals in Google Analytics
 - **Links:** [Live Demo](https://tixee.com/)
+
+## Ongoing Projects
+
+Here's a list of some of the exciting projects I'm currently working on:
+
+### Hilwa Dairy Website
+
+- **Description:** Developing a website for Hilwa Dairy, a company that produces milk products. The aim of the website is to showcase the company's products, provide information about the company, and serve as a point of contact for customers.
+- **Technologies:** WordPress, PHP, HTML, CSS, JavaScript.
+- **Responsibilities:** My role involves designing and implementing the website layout, creating pages for product display, and implementing contact forms and other features as required.
+- **Progress:** The design phase has been completed and development is underway.
+- **Expected Completion:** The website is expected to go live by the end of July 2023.
+
+### WordPress Online Booking System Plugin
+
+- **Description:** I am currently developing a new WordPress plugin to facilitate online booking. The plugin will allow businesses to manage bookings and reservations directly from their WordPress dashboard.
+- **Technologies:** PHP, HTML, CSS, JavaScript, WordPress Plugin API.
+- **Responsibilities:** As the sole developer on this project, I am responsible for planning, designing, and coding the plugin. I am also in charge of testing the plugin for bugs and compatibility issues with different versions of WordPress.
+- **Progress:** The planning and design phases have been completed, and I am currently in the coding phase.
+- **Expected Completion:** The first version of the plugin is expected to be ready for testing by September 2023.
 
 ## Work Experience
 
