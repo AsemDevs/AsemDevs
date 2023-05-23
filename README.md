@@ -12,6 +12,7 @@
    - [Kiobe WordPress Theme Development](#kiobe-wordpress-theme-development)
    - [HomeJeddah.com - WordPress Theme Development](#homejeddah-wordpress-theme-development)
    - [Tixee.com Website Development](#tixee-website-development)
+   - [User Spotlight Pro WordPress Plugin](#user-spotlight-pro-wordpress-plugin)
 4. [Ongoing Projects](#ongoing-projects)
 5. [Work Experience](#work-experience)
    - [Full Stack Developer at Tixee](#full-stack-developer-at-tixee)
