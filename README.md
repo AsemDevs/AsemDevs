@@ -267,7 +267,7 @@ For more insights on my professional expertise, feel free to check out the recom
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsemDevs&langs_count=6&exclude_repo=APIs,ItemCatalog,ud330,log-analysis,OAuth2.0,frontend-nanodegree-styleguide&hide=jupyter%20notebook,cython,c,less,qml,scss,m,c%2B%2B,handlebars,makefile,powershell,matlab,batchfile,smarty,fortran,glsl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsemDevs&langs_count=6&exclude_repo=APIs,ItemCatalog,ud330,log-analysis,OAuth2.0,frontend-nanodegree-styleguide&hide=jupyter%20notebook,cython,c,glsl)
 
 ### GitHub Profile Views
 
@@ -275,4 +275,5 @@ For more insights on my professional expertise, feel free to check out the recom
 
 ### Wakatime Stats
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AsemDevs&layout=compact&langs_count=20)
+This week I spent my time on:
+![Asem wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AsemDevs&layout=compact&langs_count=20)
