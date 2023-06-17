@@ -70,81 +70,127 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
 
 ## Projects
 
-### RocApply Website Redesign and Enhancement
+### **Hilwa Dairy Website**
 
-- **Description:** Redesigned and developed new features for RocApply, a German company specializing in international student applications. Improved website performance and user experience by working on both frontend and backend development.
-- **Technologies:** MODx CMS, PHP, HTML, CSS, JavaScript, jQuery, Ajax
-- **Features:**
-  - Implemented multilingual functionality using Babel and router plugins
-  - Developed a student application tracking system
-  - Created a document upload feature using Uploadcare API
-  - Implemented a university and school ranking system
-  - Developed career pages and job application system
-  - Handled SEO, Google Analytics, and Google Adsense
-- **Links:** [Live Demo](https://www.rocapply.com/home)
+**Project Description:**
+Developed a user-friendly, responsive website for Hilwa Dairy, a leading milk products company. The website aims to present the company's products, provide essential information about the company, and serve as a point of contact for customers.
 
-### Kiobe WordPress Theme Development
+**Key Features:**
 
-- **Description:** Developed a custom WordPress theme from scratch for Flexistax, a web development company. The project involved creating a responsive and visually appealing design and implementing various custom features.
-- **Technologies:** WordPress, PHP, HTML, CSS, JavaScript, Docker, GitLab, Zeplin, Adobe Sketch
-- **Features:**
-  - Created a custom theme using PHP, HTML, CSS, and JavaScript
-  - Developed a custom portfolio page
-  - Created a custom pricing page
-  - Developed a custom services page
+- Product showcase with detailed product descriptions
+- Company history and mission
+- Contact form for customer inquiries
+- Can be converted into a fully functional e-commerce platform
+- The Product Page provides a deep dive into your product variants.
 
-### HomeJeddah WordPress Theme Development
+**Technologies Used:**
+WordPress, PHP, HTML, CSS, JavaScript.
 
-- **Description:** Developed a custom WordPress theme from scratch for HomeJeddah.com, a platform showcasing home services in Saudi Arabia. The project involved creating a responsive and user-friendly design and implementing various custom features to meet the requirements of the platform.
-- **Technologies:** WordPress, PHP, HTML, CSS, JavaScript
-- **Links:** [Live Demo](https://homejeddah.com)
+[Website Link](https://www.hilwadairy.com/)
 
-### Tixee Website Development
+### **RocApply Website Redesign and Enhancement**
 
-- **Description:** Worked as a full stack developer for Tixee, a trading platform company, to develop and maintain their WordPress website. Focused on creating custom features to meet marketing goals and improve the overall user experience.
-- **Technologies:** WordPress, PHP, HTML, CSS, JavaScript, CRM API integration
-- **Features:**
-  - Developed custom login and registration forms connected to their CRM API
-  - Implemented various backend tasks, such as user registration with specific parameters and IP logging
-  - Fixed reset password functionality and translation plugin bugs
-  - Created custom post types for marketing purposes
-  - Developed high-performance landing pages
-  - Integrated APIs for trading data presentation
-  - Worked closely with the CMO to meet marketing goals and created goals in Google Analytics
-- **Links:** [Live Demo](https://tixee.com/)
+**Project Description:**
+Spearheaded the redesign and development of new features for RocApply, a company that specializes in international student applications. The goal was to improve the user interface and add functionalities to facilitate the application process for students.
 
-### User Spotlight Pro WordPress Plugin
+**Key Features:**
 
-- **Description:** Developed a custom WordPress plugin that fetches and displays user details from an external API. REST API endpoint to fetch the user details, and a template for displaying user details.
-- **Technologies:** PHP, HTML, CSS, JavaScript, WordPress Plugin API.
-- **Features:**
-  - Created a custom WordPress plugin to display user details from an external API
-  - Implemented a REST API endpoint to fetch user details
-  - Integrated AJAX calls to fetch and display data from the REST API
-  - Created a template for displaying user details in a user-friendly format
-  - Ensured the plugin is compatible with different versions of WordPress
-- **Links:** [GitHub Repository](https://github.com/AsemDevs/Users-List-REST-API-Integration)
+- User-friendly interface
+- Efficient application process
+- Student dashboard for managing applications
+
+**Technologies Used:**
+MODx CMS, PHP, HTML, CSS, JavaScript, jQuery, Ajax.
+
+[Live Demo](https://www.rocapply.com/home)
+
+### **Kiobe WordPress Theme Development**
+
+**Project Description:**
+Developed a custom WordPress theme for Flexistax, a web development company. This project involved the creation of a flexible and customizable WordPress theme that met the specific design requirements of the client.
+
+**Key Features:**
+
+- Customizable layout
+- Responsive design
+- Seamless integration with WordPress plugins
+
+**Technologies Used:**
+WordPress, PHP, HTML, CSS, JavaScript, Docker, GitLab, Zeplin, Adobe Sketch.
+
+### **HomeJeddah WordPress Theme Development**
+
+**Project Description:**
+Developed a custom WordPress theme for HomeJeddah.com, a home services platform based in Saudi Arabia. The theme was built to facilitate the company's operations and cater to the unique needs of its customers.
+
+**Key Features:**
+
+- User-friendly navigation
+- Efficient service booking system
+- Integration with payment gateways
+
+**Technologies Used:**
+WordPress, PHP, HTML, CSS, JavaScript.
+
+[Live Demo](https://homejeddah.com)
+
+### **Tixee Website Development**
+
+**Project Description:**
+Worked as a full-stack developer for Tixee, a trading platform company. My role involved developing and maintaining their WordPress website, including creating custom features and integrating with their CRM API.
+
+**Key Features:**
+
+- User registration and login
+- Personalized user dashboard
+- Integration with CRM API
+
+**Technologies Used:**
+WordPress, PHP, HTML, CSS, JavaScript, CRM API integration.
+
+[Live Demo](https://tixee.com/)
+
+### **User Spotlight Pro WordPress Plugin**
+
+**Project Description:**
+Developed a custom WordPress plugin named "User Spotlight Pro" that fetches and displays user details from an external API. The plugin was designed to be used on multiple websites and can be easily customized to match the site's theme.
+
+**Key Features:**
+
+- Fetches user details from an external API
+- Displays user details in a customizable format
+- The plugin uses AJAX to fetch user details without reloading the page.
+- Customizable endpoints and paginated user lists for better flexibility and scalability.
+- Cache system to improve performance and reduce API calls using transients.
+
+**Technologies Used:**
+PHP, HTML, CSS, JavaScript, Bootstrap, WordPress Plugin API, composer.
+
+[Private GitHub Repository](https://github.com/AsemDevs/Users-List-REST-API-Integration)
+
+Sure, you can add it like this:
 
 ## Ongoing Projects
 
-Here's a list of some of the exciting projects I'm currently working on:
+### **WordPress Online Booking System Plugin**
 
-### Hilwa Dairy Website
+**Project Description:**
+Currently developing a new WordPress plugin to facilitate online bookings. The plugin will allow businesses to manage bookings and reservations directly from their WordPress dashboard.
 
-- **Description:** Developing a website for Hilwa Dairy, a company that produces milk products. The aim of the website is to showcase the company's products, provide information about the company, and serve as a point of contact for customers.
-- **Technologies:** WordPress, PHP, HTML, CSS, JavaScript.
-- **Responsibilities:** My role involves designing and implementing the website layout, creating pages for product display, and implementing contact forms and other features as required.
-- **Progress:** The design phase has been completed and development is underway. ![Progress](https://progress-bar.dev/100)
-- **Expected Completion:** The website is expected to go live by the end of may 2023.
-- **Links:** [Website Link](https://www.hilwadairy.com/)
+**Progress:** The planning and design phases have been completed, and I am currently in the coding phase. ![Progress](https://progress-bar.dev/50)
+  
+**Expected Completion:** The first version of the plugin is expected to be ready for testing by June 2023.
 
-### WordPress Online Booking System Plugin
+### **ChatGPT Plugin for Automated Code Review**
 
-- **Description:** I am currently developing a new WordPress plugin to facilitate online booking. The plugin will allow businesses to manage bookings and reservations directly from their WordPress dashboard.
-- **Technologies:** PHP, HTML, CSS, JavaScript, WordPress Plugin API.
-- **Responsibilities:** As the sole developer on this project, I am responsible for planning, designing, and coding the plugin. I am also in charge of testing the plugin for bugs and compatibility issues with different versions of WordPress.
-- **Progress:** The planning and design phases have been completed, and I am currently in the coding phase. ![Progress](https://progress-bar.dev/20)
-- **Expected Completion:** The first version of the plugin is expected to be ready for testing by june 2023.
+**Project Description:**
+Currently in the early stages of developing a plugin that uses the capabilities of OpenAI's ChatGPT to review code snippets for common mistakes or bad practices. The plugin is intended to offer suggestions to improve the code, such as refactoring recommendations or identifying potential security vulnerabilities.
+
+**Technologies Used:**
+Python, OpenAI API.
+
+**Expected Completion:**
+The project is in its early stages, with an estimated completion date to be determined.
 
 ## Work Experience
 
