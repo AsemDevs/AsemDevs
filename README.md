@@ -22,6 +22,7 @@
 7. [Certifications](#certifications)
 8. [Soft Skills](#soft-skills)
 9. [LinkedIn Recommendations](#linkedin-recommendations)
+10. [Github Stats](#github-stats)
 
 ## Introduction
 
@@ -166,9 +167,7 @@ Developed a custom WordPress plugin named "User Spotlight Pro" that fetches and 
 **Technologies Used:**
 PHP, HTML, CSS, JavaScript, Bootstrap, WordPress Plugin API, composer.
 
-[Private GitHub Repository](https://github.com/AsemDevs/Users-List-REST-API-Integration)
-
-Sure, you can add it like this:
+[Private GitHub Repository](https://github.com/AsemDevs/Users-List-REST-API-Integration) **(Private repository, please contact me for access or to be shared in a share screen call)**
 
 ## Ongoing Projects
 
@@ -261,3 +260,19 @@ The project is in its early stages, with an estimated completion date to be dete
 For more insights on my professional expertise, feel free to check out the recommendations on my LinkedIn profile:
 
 [View my LinkedIn Recommendations](https://linkedin.com/in/asemhamdi/details/recommendations/)
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AsemDevs&show_icons=true&theme=radical)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsemDevs&langs_count=4&exclude_repo=APIs,ItemCatalog,Full-Stack-Foundations,ud330,Export-ChatGPT-markdown,NodesLinks,portfolio,log-analysis,fullstack-nanodegree-vm,OAuth2.0,The-Web-Developer-Bootcamp,success,markdown-here,gunsel,HTML-Udacity,frontend-nanodegree-styleguide,CSS-Tutorial---Zero-to-Hero&hide=python,jupyter%20notebook,cython,c,less,qml,scss,m,c%2B%2B,handlebars,makefile,powershell,matlab,batchfile,smarty,fortran)
+
+### GitHub Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=AsemDevs&style=flat-square)
+
+### Wakatime Stats
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AsemDevs&layout=compact&langs_count=20&exclude_repo=success,markdown-here,gunsel,HTML-Udacity,frontend-nanodegree-styleguide,CSS-Tutorial---Zero-to-Hero&hide=python,jupyter%20notebook,cython,c,less,qml,scss,m,c%2B%2B,handlebars,makefile,powershell,matlab,batchfile,smarty,fortran,c%23)](https://github.com/anuraghazra/github-readme-stats)
