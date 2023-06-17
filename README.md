@@ -267,7 +267,7 @@ For more insights on my professional expertise, feel free to check out the recom
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsemDevs&langs_count=4&exclude_repo=APIs,ItemCatalog,Full-Stack-Foundations,ud330,Export-ChatGPT-markdown,NodesLinks,portfolio,log-analysis,fullstack-nanodegree-vm,OAuth2.0,The-Web-Developer-Bootcamp,success,markdown-here,gunsel,HTML-Udacity,frontend-nanodegree-styleguide,CSS-Tutorial---Zero-to-Hero&hide=python,jupyter%20notebook,cython,c,less,qml,scss,m,c%2B%2B,handlebars,makefile,powershell,matlab,batchfile,smarty,fortran)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsemDevs&langs_count=6&exclude_repo=APIs,ItemCatalog,ud330,log-analysis,OAuth2.0,frontend-nanodegree-styleguide&hide=jupyter%20notebook,cython,c,less,qml,scss,m,c%2B%2B,handlebars,makefile,powershell,matlab,batchfile,smarty,fortran,glsl)
 
 ### GitHub Profile Views
 
@@ -275,4 +275,4 @@ For more insights on my professional expertise, feel free to check out the recom
 
 ### Wakatime Stats
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AsemDevs&layout=compact&langs_count=20&exclude_repo=success,markdown-here,gunsel,HTML-Udacity,frontend-nanodegree-styleguide,CSS-Tutorial---Zero-to-Hero&hide=python,jupyter%20notebook,cython,c,less,qml,scss,m,c%2B%2B,handlebars,makefile,powershell,matlab,batchfile,smarty,fortran,c%23)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AsemDevs&layout=compact&langs_count=20)
