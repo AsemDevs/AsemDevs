@@ -275,5 +275,6 @@ For more insights on my professional expertise, feel free to check out the recom
 
 ### Wakatime Stats
 
-This week I spent my time on:
+- This week I spent my time on:
+
 ![Asem wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AsemDevs&layout=compact&langs_count=20)
