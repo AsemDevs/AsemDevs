@@ -8,6 +8,8 @@
    - [Frameworks and Libraries](#frameworks-and-libraries)
    - [Tools and Technologies](#tools-and-technologies)
 3. [Projects](#projects)
+   - [Landing Page for More Trading Website](#landing-page-for-more-trading-website)
+   - [Hilwa Dairy Website](#hilwa-dairy-website)
    - [RocApply Website Redesign and Enhancement](#rocapply-website-redesign-and-enhancement)
    - [Kiobe WordPress Theme Development](#kiobe-wordpress-theme-development)
    - [HomeJeddah.com - WordPress Theme Development](#homejeddah-wordpress-theme-development)
@@ -70,6 +72,34 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
 - CI/CD workflows
 
 ## Projects
+
+Sure! Here's how it would look in the Markdown format for your GitHub profile:
+
+### **Landing Page for More Trading Website**
+
+**Project Description:**
+Developed a landing page for a trading website. This project was built using WordPress and Tailwind CSS to deliver a user-friendly and aesthetically pleasing experience. It was designed with a focus on detail and usability, optimizing the site for both desktop and mobile viewing.
+
+**Technology Stack:**
+
+- **WordPress:** Our chosen Content Management System.
+- **Tailwind CSS:** A utility-first CSS framework used for custom designs.
+- **MySQL:** Our database of choice.
+- **Docker:** Our containerization platform.
+
+**Key Features:**
+
+- **Fallback for Custom Fields:** The theme implements a fallback mechanism for custom fields, especially for images. If a custom field is not set or left empty in the admin panel, the field will default to using a predefined image located in the theme's assets directory. This ensures there are no blank or missing image issues in the live view.
+
+**Technologies Used:** WordPress, Tailwind CSS, MySQL, Docker.
+
+Please note, if you have a live demo or a GitHub repository for this project, it would be great to include a link. Just add the following Markdown at the end of your project details:
+
+[Live Demo](https://staging4.asemhamdi.com/)
+
+or
+
+[GitHub Repository](https://github.com/AsemDevs/MoreTrading-Website)
 
 ### **Hilwa Dairy Website**
 
