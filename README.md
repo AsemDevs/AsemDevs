@@ -91,8 +91,6 @@ Developed a landing page for a trading website. This project was built using Wor
 
 **Technologies Used:** WordPress, Tailwind CSS, MySQL, Docker.
 
-Please note, if you have a live demo or a GitHub repository for this project, it would be great to include a link. Just add the following Markdown at the end of your project details:
-
 [Live Demo](https://staging4.asemhamdi.com/)
 
 or
