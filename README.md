@@ -73,8 +73,6 @@ A versatile and dedicated full-stack web developer with 5+ years of experience i
 
 ## Projects
 
-Sure! Here's how it would look in the Markdown format for your GitHub profile:
-
 ### **Landing Page for More Trading Website**
 
 **Project Description:**
