@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-👋 Hello! I'm **Asem Abdou**, a seasoned Full Stack Developer with a rich arsenal of skills, ranging from JavaScript to Docker, and an affinity for frameworks like WordPress and Laravel. My passion lies in creating intuitive and performant digital solutions.
+👋 Hello! I'm **Asem Abdo**, a seasoned Full Stack Developer with a rich arsenal of skills, ranging from JavaScript to Docker, and an affinity for frameworks like WordPress and Laravel. My passion lies in creating intuitive and performant digital solutions.
 
 🚀 I’ve worked on projects like the Landing Page for More Trading, Hilwa Dairy, and RocApply Website. You can check some of these out right here on GitHub or live in action!
 
