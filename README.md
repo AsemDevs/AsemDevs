@@ -1,4 +1,4 @@
-# Asem Abdou
+# Asem Abdo
 
 ## My Tech Stack
 
@@ -232,12 +232,13 @@ The project is in its early stages, with an estimated completion date to be dete
 
 ### Wordpress Developer at RedAcre Ltd
 
+- **Duration:** 2023-06 - present
 - **Responsibilities:**
-- Collaborate with a dedicated team of web developers to design, develop, and maintain responsive and user-friendly websites for diverse clientele.
-- Spearhead WordPress theme and plugin development, ensuring high-quality and customized solutions tailored to client requirements.
-- Innovate automation techniques in website development, streamlining processes and improving overall productivity.
-- Enhance user experience by introducing and integrating new features based on client feedback and industry trends.
-- Utilize expertise in PHP, Figma, and other advanced web development tools to consistently deliver projects that exceed clients' expectations.
+  - Collaborate with a dedicated team of web developers to design, develop, and maintain responsive and user-friendly websites for diverse clientele.
+  - Spearhead WordPress theme and plugin development, ensuring high-quality and customized solutions tailored to client requirements.
+  - Innovate automation techniques in website development, streamlining processes and improving overall productivity.
+  - Enhance user experience by introducing and integrating new features based on client feedback and industry trends.
+  - Utilize expertise in PHP, Figma, and other advanced web development tools to consistently deliver projects that exceed clients' expectations.
 
 ### Full Stack Developer at Tixee
 
