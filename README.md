@@ -1,34 +1,45 @@
 # Asem Abdou
 
-## Table of Contents
+## My Tech Stack
 
-1. [Introduction](#introduction)
-2. [Technical Skills](#technical-skills)
-   - [Languages](#languages)
-   - [Frameworks and Libraries](#frameworks-and-libraries)
-   - [Tools and Technologies](#tools-and-technologies)
-3. [Projects](#projects)
-   - [Landing Page for More Trading Website](#landing-page-for-more-trading-website)
-   - [Hilwa Dairy Website](#hilwa-dairy-website)
-   - [RocApply Website Redesign and Enhancement](#rocapply-website-redesign-and-enhancement)
-   - [Kiobe WordPress Theme Development](#kiobe-wordpress-theme-development)
-   - [HomeJeddah.com - WordPress Theme Development](#homejeddah-wordpress-theme-development)
-   - [Tixee.com Website Development](#tixee-website-development)
-   - [User Spotlight Pro WordPress Plugin](#user-spotlight-pro-wordpress-plugin)
-4. [Ongoing Projects](#ongoing-projects)
-5. [Work Experience](#work-experience)
-   - [Full Stack Developer at Tixee](#full-stack-developer-at-tixee)
-   - [Web Developer at Flexistax](#web-developer-at-flexistax)
-   - [Full Stack Web Developer at RocApply](#full-stack-web-developer-at-rocapply)
-6. [Education](#education)
-7. [Certifications](#certifications)
-8. [Soft Skills](#soft-skills)
-9. [LinkedIn Recommendations](#linkedin-recommendations)
-10. [Github Stats](#github-stats)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-## Introduction
+👋 Hello! I'm **Asem Abdou**, a seasoned Full Stack Developer with a rich arsenal of skills, ranging from JavaScript to Docker, and an affinity for frameworks like WordPress and Laravel. My passion lies in creating intuitive and performant digital solutions.
 
-A versatile and dedicated full-stack web developer with 5+ years of experience in various web development roles, specializing in both frontend and backend development. Proficient in PHP, HTML, CSS, JavaScript, and WordPress theme development, I have a strong background in developing high-performance websites and applications with a focus on user experience and search engine optimization. Experienced in working remotely and passionate about staying up-to-date with the latest industry trends and continuously learning to improve my skills and expertise.
+🚀 I’ve worked on projects like the Landing Page for More Trading, Hilwa Dairy, and RocApply Website. You can check some of these out right here on GitHub or live in action!
+
+📚 When it comes to education, I hold a degree in Electrical and Electronics Engineering from Near East University, and I've also earned certifications like the Full Stack Web Developer Udacity Nanodegree.
+
+🎙️ Outside the world of code, I've also dipped my toes in organizing events. I was privileged to volunteer for TEDx, gaining insights into event management from organizing to evaluating.
+
+📖 If you ever want to chat about TypeScript, PHP, WordPress, or the ins-and-outs of Docker, drop me a message!
+
+🌐 Some of my projects are hosted live, and you can check them out like the [Landing Page for More Trading](https://staging4.asemhamdi.com/) or the [HomeJeddah WordPress Theme](https://homejeddah.com). and find more here [Projects](#projects)
+
+💡 I’m currently working on an exciting WordPress Online Booking System Plugin and a ChatGPT Plugin for Automated Code Review. Always love a new challenge!
+
+👨‍💼 I've had the privilege to work with amazing teams at Tixee, Flexistax, and RocApply. Each role has refined my skills and introduced me to new technologies.
+
+🌍 Want to collaborate or just chat about the latest web trends? You can find me here on GitHub or shoot me a message.
+
+💌 I'm always open to connect and collaborate. If you'd like to reach out, send an email my way!
+
+🎧 Fun fact: When I'm not coding, you can find me exploring the latest tech trends, binging on Udacity courses, or perhaps diving deep into a new book. Continuous learning is the name of the game!
 
 ## Technical Skills
 
@@ -218,6 +229,15 @@ Python, OpenAI API.
 The project is in its early stages, with an estimated completion date to be determined.
 
 ## Work Experience
+
+### Wordpress Developer at RedAcre Ltd
+
+- **Responsibilities:**
+- Collaborate with a dedicated team of web developers to design, develop, and maintain responsive and user-friendly websites for diverse clientele.
+- Spearhead WordPress theme and plugin development, ensuring high-quality and customized solutions tailored to client requirements.
+- Innovate automation techniques in website development, streamlining processes and improving overall productivity.
+- Enhance user experience by introducing and integrating new features based on client feedback and industry trends.
+- Utilize expertise in PHP, Figma, and other advanced web development tools to consistently deliver projects that exceed clients' expectations.
 
 ### Full Stack Developer at Tixee
 
