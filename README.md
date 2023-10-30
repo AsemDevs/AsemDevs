@@ -324,3 +324,9 @@ For more insights on my professional expertise, feel free to check out the recom
 - This week I spent my time on:
 
 ![Asem wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AsemDevs&layout=compact&langs_count=20)
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asemabdo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asemabdou1@gmail.com)
+[![Website](https://img.shields.io/badge/Website-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://allthedevs.com/)
