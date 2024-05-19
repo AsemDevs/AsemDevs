@@ -29,7 +29,7 @@
 
 📖 If you ever want to chat about TypeScript, PHP, WordPress, or the ins-and-outs of Docker, drop me a message!
 
-🌐 Some of my projects are hosted live, and you can check them out like the [Landing Page for More Trading](https://staging4.asemhamdi.com/) or the [Blogging WordPress Theme](https://homejeddah.com). and find more here [Projects](#projects)
+🌐 Some of my projects are hosted live, and you can check them out like the [Landing Page for More Trading](https://staging4.asemhamdi.com/) or the [Waterproofing Company Website](https://homejeddah.com). and find more here [Projects](#projects)
 
 💡 I’m currently working on an exciting WordPress Online Booking System Plugin and a ChatGPT Plugin for Automated Code Review. Always love a new challenge!
 
