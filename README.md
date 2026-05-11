@@ -1,4 +1,4 @@
-# Asem Abdou
+# Asem Abdo
 
 Senior Full-Stack Engineer | Technical Founder of MentorSimply & OpenPlanr | Building AI-Powered SaaS Platforms | Istanbul, Türkiye
 
