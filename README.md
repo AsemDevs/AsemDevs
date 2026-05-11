@@ -1,151 +1,78 @@
-# Hi, I'm Asem 👋  
-📍 Istanbul | 🧠 Systems Engineer | ⚡ FullStack Architect | 🚀 Founder  
+# Asem Abdou
 
-I design and build scalable systems, SaaS platforms, and automation-driven solutions.
+Senior Full-Stack Engineer | Technical Founder of MentorSimply & OpenPlanr | Building AI-Powered SaaS Platforms | Istanbul, Türkiye
 
-From CMS ecosystems to AI-powered SaaS platforms — I focus on architecture, scalability, performance, and long-term maintainability.
-
----
-
-## What I Build
-
-• Multi-tenant SaaS platforms  
-• API-first backend systems  
-• Booking & payment infrastructures  
-• Enterprise CMS ecosystems  
-• AI-powered project planning tools  
-• Automation-driven developer tooling  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asemabdo)
+[![Email](https://img.shields.io/badge/asem@techarc.io-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asem@techarc.io)
+[![Website](https://img.shields.io/badge/asemabdo.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://asemabdo.com)
 
 ---
 
-## Core Stack
+## OpenPlanr — Spec-Driven AI Software Factory
 
-TypeScript • JavaScript • PHP • SQL  
-React • Next.js • Node.js • NestJS  
-Prisma • PostgreSQL • MySQL  
-Docker • CI/CD • REST APIs  
-Stripe • Zoom • WP Engine  
-WordPress • CraftCMS • TYPO3  
+[![npm](https://img.shields.io/npm/v/openplanr?label=CLI&color=cb3837)](https://www.npmjs.com/package/openplanr)
+[![pipeline](https://img.shields.io/github/v/release/openplanr/planr-pipeline?label=pipeline&color=14B8A6)](https://github.com/openplanr/planr-pipeline)
+[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/openplanr/planr-pipeline/blob/main/LICENSE)
 
----
+Open-source protocol and toolchain that takes a feature spec from planning to shipped code across multiple AI runtimes — Claude Code, Cursor, and Codex.
 
-# 🚀 Current Projects
+**How it works:** write a brief → the pipeline decomposes it into user stories and tasks → 9 specialized AI agents generate production code, run tests, verify quality, and produce docs. Human reviews gate every phase transition. A partially-shipped spec on Claude Code can resume on Cursor and vice versa — the protocol is runtime-agnostic.
 
----
+| Repo | What it does |
+|---|---|
+| [`planr-pipeline`](https://github.com/openplanr/planr-pipeline) | Claude Code plugin — 9 subagents, manifest-enforced tool restrictions, two-phase orchestration |
+| [`OpenPlanr`](https://github.com/openplanr/OpenPlanr) | CLI — AI-powered agile planning, task decomposition, Linear sync, rule generation for Cursor/Codex |
+| [`skills`](https://github.com/openplanr/skills) | Claude Code skill — multi-runtime routing (which surface to use when) |
+| [`marketplace`](https://github.com/openplanr/marketplace) | Plugin marketplace for Claude Code |
 
-## 🧠 MentorSimply  
-Premium mentorship SaaS platform.
+**Key engineering decisions:**
 
-A full booking, payment, referral, and onboarding system built with production-grade backend architecture.
+- Per-task dispatch mode on Cursor/Codex (architectural fix for cumulative-context bias in continuous sessions)
+- Project memory (`.planr/memory.md`) — agents learn from past failures across runs instead of repeating mistakes
+- Write-time artifact validation — AI-generated output is structurally verified before touching disk
+- Full JSON Schema conformance suite with CI enforcement
 
-• Role-based architecture (Mentor / Student / Admin)  
-• Stripe payment logic with commission engine  
-• Zoom session orchestration  
-• Referral & founding mentor system  
-• Prisma-powered database layer  
-• AI-enhanced onboarding flows  
-
-Stack: Next.js • TypeScript • NestJS • Prisma • PostgreSQL • Stripe • Zoom  
-🔗 https://mentorsimply.com
+→ [openplanr.dev](https://openplanr.dev)
 
 ---
 
-## 📘 BookSimply.io  
-Direct booking engine with secure API infrastructure.
+## MentorSimply — Mentorship SaaS Platform
 
-• Custom reservation engine  
-• Calendar sync architecture  
-• Secure REST API design  
-• Scalable backend logic  
-• Developer-facing API layer  
+Production-grade booking, payment, and onboarding system for premium mentorship.
+Role-based architecture (mentor/student/admin), Stripe commission engine, Zoom session orchestration, referral system, AI-enhanced onboarding.
 
-Platform: https://booksimply.io  
-API: https://api.booksimply.io
+**Stack:** Next.js · TypeScript · NestJS · Prisma · PostgreSQL · Stripe · Zoom
+
+→ [mentorsimply.com](https://mentorsimply.com)
 
 ---
 
-## 🏗 TechArc.io — AI Project Planning Platform  
+## Selected Work
 
-AI-powered system that converts ideas, PDFs, and structured input into complete project roadmaps.
-
-• AI scope extraction  
-• Structured JSON project modeling  
-• Task generation system  
-• Timeline & pricing logic  
-• SaaS-ready architecture  
-
-🔗 https://techarc.io
-
----
-
-## 📚 ImRed Knowledge Base Ecosystem  
-
-Enterprise multisite CMS serving multiple brands from a single scalable core.
-
-• Brand-based multisite architecture  
-• API-driven documentation  
-• Multilingual system (WPML)  
-• Automated provisioning workflows  
-• Performance-optimized deployment  
-
-Example: https://support.funderpro.com
+| Project | What | Stack | Link |
+|---|---|---|---|
+| **Self-Hosted Enterprise RAG Platform** | Privacy-first retrieval system with intent classification, server-side response guards, hybrid search, multilingual policy management, classifier warm-up + paraphrase-invariant evaluation harness | Python · FastAPI · Qdrant · OpenRouter · Opik | [modul.ac.at](https://modul.ac.at) |
+| **Zero-Framework Agent Orchestration Platform** | Custom TypeScript agent runtime with multi-LLM routing (OpenRouter/Ollama), MCP tool protocol, database-level RBAC, and an adaptive AI portal as a unified entry point for public/staff/student roles | TypeScript · Hono · MCP · OpenAI SDK · Ollama | [modul.ac.at](https://modul.ac.at) |
+| **Multi-Channel Customer Support Suite** | Real-time chat widget + WhatsApp + email with cross-department ticket routing, canonical phone identity dedup, in-app notifications with quiet hours, and full admin self-service | Next.js · TypeScript · Prisma · Twilio · Pusher | [modul.ac.at](https://modul.ac.at) |
+| **Self-Hosted Event Registration & Checkout Platform** | Third-party event-platform replacement — cart-shaped multi-pass checkout with merch, admin-managed discount codes with per-unit Stripe Coupon sync, Dynamics CRM webhooks, and Microsoft Entra ID SSO | Next.js · TypeScript · Prisma · Stripe · Dynamics CRM · Entra ID | [modul.ac.at](https://modul.ac.at) |
+| **Config-Driven Application Portal** | Admissions portal with CRM-spec-aligned form generation, draft persistence, demo-data harness, and embedded AI chat support | Next.js · TypeScript · Dynamics CRM · Vite | [modul.ac.at](https://modul.ac.at) |
+| **Enterprise CMS with Embedded AI Widget** | Sitefinity public-site platform with self-healing embedded chat widget, IIS GitHub Actions CI/CD, rollback-safe production deploys, and role-based landing pages | Sitefinity · .NET · IIS · GitHub Actions · PowerShell | [modul.ac.at](https://modul.ac.at) |
+| **BookSimply.io** | Direct booking engine with calendar sync and secure API layer | Next.js · REST API | [booksimply.io](https://booksimply.io) |
+| **TechArc.io** | AI project planning — converts briefs/PDFs into structured roadmaps with timeline and pricing | SaaS | [techarc.io](https://techarc.io) |
+| **FunderPro** | High-performance global corporate platform with modular content architecture | WordPress · API | [funderpro.com](https://funderpro.com) |
+| **ImRed Knowledge Base** | Enterprise multisite CMS serving multiple brands from a single core | WordPress · WPML | [support.funderpro.com](https://support.funderpro.com) |
+| **WP TeamHire** | ATS integration — real-time sync, multi-company architecture, structured application workflows | WordPress · REST API | — |
+| **Enterprise CMS** | Scalable systems on TYPO3 (Mapo.at), CraftCMS (Tixee), and advanced WordPress ecosystems | Various | — |
 
 ---
 
-## 🏢 FunderPro Corporate Platform  
+## Stack
 
-High-performance global website infrastructure.
-
-• Modular content architecture  
-• Custom API integrations  
-• Optimized SEO & caching  
-• Enterprise-grade hosting  
-
-🔗 https://funderpro.com
+TypeScript · JavaScript · PHP · React · Next.js · Node.js · NestJS · Prisma · PostgreSQL · MySQL · Docker · CI/CD · Stripe · REST APIs
 
 ---
 
-## 🧩 WP TeamHire — ATS Infrastructure  
-
-Custom job platform integration system.
-
-• Real-time ATS sync  
-• Multi-company architecture  
-• Structured application workflows  
-• REST API layer  
-• Production-grade error handling  
-
----
-
-## 🌍 Enterprise CMS Engineering  
-
-Delivered scalable systems using:
-
-• TYPO3 (Mapo.at)  
-• CraftCMS (Tixee)  
-• Advanced WordPress ecosystems  
-
----
-
-# 🧱 System Design Philosophy
-
-I build systems — not pages.
-
-Every platform I ship is:
-
-• Modular  
-• API-driven  
-• Scalable  
-• Maintainable  
-• Automation-ready  
-
-I reduce operational friction.  
-I remove repetitive workflows.  
-I design for growth.
-
----
-
-# 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsemDevs&theme=radical" />
@@ -158,28 +85,14 @@ I design for growth.
 
 ---
 
-# 🤝 Connect
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asemabdo)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asem@techarc.io)  
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://techarc.io)  
-[![MentorSimply](https://img.shields.io/badge/MentorSimply-111111?style=flat-square)](https://mentorsimply.com)  
-
----
-
-# 🧠 What I'm Doing
-
-• Building scalable SaaS infrastructure  
-• Automating CMS deployments  
-• Engineering AI-driven developer workflows  
-• Designing premium dashboard systems  
-• Scaling multi-brand platforms  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asemabdo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asem@techarc.io)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://asemabdo.com)
+[![MentorSimply](https://img.shields.io/badge/MentorSimply-2563EB?style=flat-square)](https://mentorsimply.com)
+[![OpenPlanr](https://img.shields.io/badge/OpenPlanr-14B8A6?style=flat-square&logoColor=white)](https://openplanr.dev)
 
 ---
 
-# Philosophy
-
-"Systems over shortcuts."
-
-I don't build quick fixes.  
-I build foundations that scale.
+*I build systems, not pages. Every platform I ship is modular, API-driven, and designed for growth.*
