@@ -1,4 +1,4 @@
-# Asem Abdo 👋
+# Asem Abdo
 
 **Senior Full-Stack Engineer · AI & SaaS · Istanbul, Türkiye**
 
@@ -10,21 +10,26 @@ I’m the founder of [MentorSimply](https://mentorsimply.com) and the creator of
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asemabdo/)
 [![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asem@techarc.io)
 
+> ### Agentic Engineering: from using agents to engineering them
+> For engineers who already ship code with Claude Code, Codex, or Cursor. Eight lessons on context engineering, harness engineering, loops, multi-agent orchestration, and evals, with 33 runnable samples, labs, and flashcards. No account needed.
+>
+> **[Start the course →](https://openplanr.dev/learn/agentic-engineering)**
+
 ---
 
-## 🚀 What I’m building
+## What I’m building
 
-### 🧭 [OpenPlanr](https://openplanr.dev)
+### [OpenPlanr](https://openplanr.dev)
 
 I used to plan coding-agent tasks by hand. OpenPlanr grew out of that habit.
 
-It turns a brief into specs, user stories, and scoped tasks that live in the repository alongside the code. Claude Code, Codex, and Cursor work from that shared context, one task at a time.
+Your agent writes the code. OpenPlanr is the open harness around it: plans as files in the repository, checks before you merge, and a record of what shipped. Claude Code, Codex, and Cursor build one task at a time against those plans.
 
-The open-source toolkit includes 25+ skills for planning, design, implementation, review, and operating decisions. A deterministic CLI validates the planning files and syncs them with GitHub Issues or Linear.
+The open-source toolkit includes 25+ skills for planning, implementation, verification, design, review, and operating decisions. The deterministic `openplanr` CLI checks the work offline and keeps GitHub Issues or Linear in step.
 
-🌐 [Website](https://openplanr.dev) · 💻 [Source & docs](https://github.com/openplanr/OpenPlanr) · 📦 [npm](https://www.npmjs.com/package/openplanr) · MIT licensed
+[Website](https://openplanr.dev) · [Source & docs](https://github.com/openplanr/OpenPlanr) · [npm](https://www.npmjs.com/package/openplanr) · [Course](https://openplanr.dev/learn/agentic-engineering) · MIT licensed
 
-### 🤝 [MentorSimply](https://mentorsimply.com)
+### [MentorSimply](https://mentorsimply.com)
 
 I built MentorSimply so mentors can run paid sessions from one place: onboarding, bookings, payments, video, notes, and reviews.
 
@@ -32,18 +37,17 @@ I own the product and engineering, including role-based dashboards, in-platform 
 
 **Built with:** Next.js, NestJS, TypeScript, Prisma, PostgreSQL, WebRTC, and Stripe.
 
-🌐 [Visit MentorSimply](https://mentorsimply.com)
 
 ---
 
-## 💼 Selected client work
+## Selected client work
 
-- 🤖 **[MUVi AI Assistant](https://www.modul.ac.at):** university support grounded in approved content, with hybrid Qdrant retrieval, intent classification, response guards, and evaluation workflows.
-- 💬 **[MUVi Connect](https://www.modul.ac.at):** chat, WhatsApp, and email in one staff platform, connected to Quanta CRM with shared contact identity and department routing.
-- 🎓 **[MUVi Apply](http://apply.modul.ac.at/):** CRM-driven admissions forms, saved application drafts, and embedded AI support.
-- 🏛️ **[Modul Events and website](https://www.modul.ac.at):** event registration and Stripe checkout, Dynamics CRM integration, staff SSO, and Sitefinity/.NET delivery with rollback support.
-- ⚡ **[Sycous customer portals](https://mysycous.com):** a five-site Craft CMS estate covering metering, billing, top-ups, and moves across mySycous, Vattenfall UK, SNRG, myZENNER, and the corporate site.
-- 🧩 **[FunderPro](https://funderpro.com) and WP TeamHire:** reusable WordPress content layouts, platform API integrations, and recruitment workflows connected to the Teamtailor ATS.
+- **[MUVi AI Assistant](https://www.modul.ac.at):** university support grounded in approved content, with hybrid Qdrant retrieval, intent classification, response guards, and evaluation workflows.
+- **[MUVi Connect](https://www.modul.ac.at):** chat, WhatsApp, and email in one staff platform, connected to Quanta CRM with shared contact identity and department routing.
+- **[MUVi Apply](https://apply.modul.ac.at/):** CRM-driven admissions forms, saved application drafts, and embedded AI support.
+- **[Modul Events and website](https://www.modul.ac.at):** event registration and Stripe checkout, Dynamics CRM integration, staff SSO, and Sitefinity/.NET delivery with rollback support.
+- **[Sycous customer portals](https://mysycous.com):** a five-site Craft CMS estate covering metering, billing, top-ups, and moves across mySycous, Vattenfall UK, SNRG, myZENNER, and the corporate site.
+- **[FunderPro](https://funderpro.com) and WP TeamHire:** reusable WordPress content layouts, platform API integrations, and recruitment workflows connected to the Teamtailor ATS.
 
 **More Sycous portals:** [Vattenfall UK](https://heat-customers.vattenfall.co.uk) · [SNRG](https://customer.oursnrg.com) · [myZENNER](https://myzenner.ae) · [Sycous](https://sycous.com)
 
@@ -51,19 +55,18 @@ I own the product and engineering, including role-based dashboards, in-platform 
 
 ---
 
-## 🛠️ Other projects
+## Other projects
 
 | Project | What I built | Explore |
 | --- | --- | --- |
-| 📋 **KanbanOS** | AI-assisted planning with a shared FastAPI backend for web and desktop clients | [Visit ↗](https://kanbanos.com) |
-| 📚 **AstudyLab** | Learning through real repositories, feature work, and AI-assisted pull request reviews | [Visit ↗](https://astudylab.com) |
-| 🎯 **Voult** | Purchase planning that connects wishlists with financial goals | [Visit ↗](https://voult.app) |
-| 🎟️ **BookSimply** | An event management and ticketing API with Stripe payments | [Visit ↗](https://booksimply.io) |
-| 🧰 **Local DevOps Workbench** | A local-first CLI for reproducible repository environments | Private |
+| **KanbanOS** | AI-assisted planning with a shared FastAPI backend for web and desktop clients | [Visit ↗](https://kanbanos.com) |
+| **AstudyLab** | Learning through real repositories, feature work, and AI-assisted pull request reviews | [Visit ↗](https://astudylab.com) |
+| **Voult** | Purchase planning that connects wishlists with financial goals | [Visit ↗](https://voult.app) |
+| **BookSimply** | An event management and ticketing API with Stripe payments | [Visit ↗](https://booksimply.io) |
 
 ---
 
-## ⚙️ Technologies I work with
+## Technologies I work with
 
 **Applications:** TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python, FastAPI  
 **Data & AI:** PostgreSQL, MySQL, Prisma, Qdrant, retrieval systems, MCP  
